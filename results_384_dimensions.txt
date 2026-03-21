@@ -1,0 +1,59 @@
+Query: when did the customer purchase their item
+
+Top Results:
+
+Column: order_date
+Type: date
+Description: order_date column storing Date when the customer completed the purchase
+Distance: 0.9846
+----------------------------------------
+Column: return_date
+Type: date
+Description: return_date column storing Date when the customer returned the product
+Distance: 1.1258
+----------------------------------------
+Column: delivery_date
+Type: date
+Description: delivery_date column storing Date when the order was delivered to the customer
+Distance: 1.1466
+----------------------------------------
+Column: customer_id
+Type: integer
+Description: customer_id column storing Identifier linking the order to the customer who placed it
+Distance: 1.2205
+----------------------------------------
+Column: cart_created_date
+Type: date
+Description: cart_created_date column storing Date when the customer created the shopping cart
+Distance: 1.2695
+----------------------------------------
+
+Query: how much did the customer pay
+
+Top Results:
+
+Column: shipping_cost
+Type: decimal
+Description: shipping_cost column storing Amount charged to deliver the order to the customer
+Distance: 1.0324
+----------------------------------------
+Column: total_amount
+Type: decimal
+Description: total_amount column storing Total price charged to the customer for the entire order
+Distance: 1.0473
+----------------------------------------
+Column: customer_lifetime_value
+Type: decimal
+Description: customer_lifetime_value column storing Estimated total revenue generated from a customer over time
+Distance: 1.2403
+----------------------------------------
+Column: total_orders
+Type: integer
+Description: total_orders column storing Total number of orders placed by the customer
+Distance: 1.2663
+----------------------------------------
+Column: customer_id
+Type: integer
+Description: customer_id column storing Identifier linking the order to the customer who placed it
+Distance: 1.2942
+----------------------------------------
