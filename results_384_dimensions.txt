@@ -1,3 +1,6 @@
+This file has the output from vector search with 384 dimensions:
+- Note: It helps me grasp if dimensions really do have an influence in output
+
 Query: when did the customer purchase their item
 
 Top Results:

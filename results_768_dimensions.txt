@@ -1,4 +1,5 @@
-Query: when did the customer purchase their item
+This file has the output from vector search with 768 dimensions:
+- Note: It helps me grasp if dimensions really do have an influence in output
 
 Top Results:
 
