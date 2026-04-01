@@ -1,0 +1,5 @@
+pandas
+chromadb
+sentence-transformers
+google-adk
+litellm
